@@ -33,7 +33,7 @@ from tglogging import TelegramLogHandler
 APP_ID = "5632285"
 API_HASH = "99106fef13795ec78bbd602e6adc4e23"
 BOT_TOKEN = "5584650829:AAFNMTpBb86yNKlFzpkJOg4vPA5Sb8CL5JM"
-UPDATES_CHANNEL = "turkcbot"
+UPDATES_CHANNEL = "marvelturkey"
 OWNER= [1610383727]
 PREMIUM = [1610383727]
 OWNER_USERNAME = "drmehmetaktass"
