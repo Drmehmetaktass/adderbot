@@ -30,14 +30,14 @@ if not os.path.exists('data.csv'):
 import logging
 from tglogging import TelegramLogHandler
 
-APP_ID = int(os.environ.get("APP_ID"))
-API_HASH = os.environ.get("API_HASH")
-BOT_TOKEN = os.environ.get("BOT_TOKEN")
-UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL")
+APP_ID = "5632285"
+API_HASH = "99106fef13795ec78bbd602e6adc4e23"
+BOT_TOKEN = "5584650829:AAFNMTpBb86yNKlFzpkJOg4vPA5Sb8CL5JM"
+UPDATES_CHANNEL = "turkcbot"
 OWNER= [1610383727]
 PREMIUM = [1610383727]
-OWNER_USERNAME = os.environ.get("OWNER_USERNAME")
-LOG_CHANNEL = os.environ.get("LOG_CHANNEL")
+OWNER_USERNAME = "drmehmetaktass"
+LOG_CHANNEL = "marvelturkey"
 
 
 # TGLOGGING Uygulamanızın logunu Telegram'a anlık göndermenizi sağlar. 
